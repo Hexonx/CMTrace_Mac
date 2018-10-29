@@ -1,2 +1,2 @@
 # CMTrace_Mac
-Simply copy CMTrace.app to your Applications folder. 
+Download the binary from the releases page: https://github.com/Hexonx/CMTrace_Mac/releases/tag/v1.0
